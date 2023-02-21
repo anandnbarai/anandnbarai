@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anand Barai</h1>
 <h3 align="center">A passionate web developer from India.</h3>
-<img align="right" alt="Coding" width='400' src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F775604367065466878%2F&psig=AOvVaw3ZqsoljxWvwgd1LJY1wp4y&ust=1677085611181000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKjPhfOMp_0CFQAAAAAdAAAAABAE](https://gfycat.com/colorlessbitesizedkob)">
+
 <p align="left"> <a href="https://twitter.com/anandnbarai" target="blank"><img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge" alt="anandnbarai" /></a> </p>
 
 - 🌱 I’m currently learning **PHP**
