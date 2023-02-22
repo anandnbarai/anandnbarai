@@ -9,11 +9,13 @@
 
 
 # **About me** :
-🌱 I’m currently learning **PHP & MySQL** <br>
-👨‍🏭 **Mechanical Graduate** <br>
-🤩 Always excited and ready to **learn new skills👨‍🎓**
+
+- 🌱 I’m currently learning **PHP & MySQL** <br>
+- 👨‍🏭 **Mechanical Graduate** <br>
+- 🤩 Always excited and ready to **learn new skills👨‍🎓**
 
 
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/anandnbarai">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -30,7 +32,7 @@
 <a href="https://www.facebook.com/anandnbarai">
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
 </a>
-## 🌐 Socials:
+
 
 
 <p> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
