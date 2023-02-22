@@ -41,7 +41,7 @@
 &nbsp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
 &nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50px" height="70px">
 &nbsp
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 </p>
