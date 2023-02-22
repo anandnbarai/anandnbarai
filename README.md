@@ -5,7 +5,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/anandnbarai" target="blank"><img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge" alt="anandnbarai" /></a> </p>
-
+<br>
+<br>
 🌱 I’m currently learning **PHP & MySQL**
 
 
