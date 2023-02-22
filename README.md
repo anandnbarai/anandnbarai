@@ -33,33 +33,19 @@
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
 </a>
 
-
-
 <p> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
+
 <h3 align="left">Languages and Tools:</h3>
-<table style="width:100%">
- <tr>
-    <th>Programming Languages</th>
-    <td> 
-      <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-php-474A8A?style=flat-square&logo=php&logoColor=white" />     
-   </td>
- </tr>
- <tr>
-   <th>Databases</th>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
- </tr>
- <tr>
-    <th>Markup/Markdown</th>
-    <td>
-      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    </td>
-  </tr>
- </table>
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+ <br>
+ <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <br>
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+ <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
