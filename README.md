@@ -6,8 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/anandnbarai" target="blank"><img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge" alt="anandnbarai" /></a> </p>
 
+
+
+# **About me** :
 🌱 I’m currently learning **PHP & MySQL**
-<br>
+👨‍🏭 **Mechanical Graduate**
+Always excited and ready to **learn new skills👨‍🎓**.
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandnbarai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anandnbarai) 
