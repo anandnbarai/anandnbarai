@@ -37,9 +37,9 @@
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
     </td>
   </tr>
-  </table>
+ </table>
 
-
+<p align="center"> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
