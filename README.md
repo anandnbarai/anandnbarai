@@ -35,17 +35,19 @@
 
 <p> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
 
-<h3 align="left">Languages and Tools:</h3>
- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
- <br>
- <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- <br>
- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
- <br>
+
+## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
+&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
+&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40px heigth=50px >
+&nbsp 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40px" height="40px"> 
+&nbsp
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
