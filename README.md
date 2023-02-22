@@ -39,10 +39,11 @@
 &nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px">
 &nbsp
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
-&nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="50px">
 &nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
+&nbsp
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
