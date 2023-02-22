@@ -33,8 +33,6 @@
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
 </a>
 <br>
-<p> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
-
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
