@@ -9,14 +9,29 @@
 
 
 # **About me** :
-🌱 I’m currently learning **PHP & MySQL**
-👨‍🏭 **Mechanical Graduate**
-Always excited and ready to **learn new skills👨‍🎓**.
+🌱 I’m currently learning **PHP & MySQL** <br>
+👨‍🏭 **Mechanical Graduate** <br>
+🤩 Always excited and ready to **learn new skills👨‍🎓**
 
 
+
+<a href="https://www.linkedin.com/in/anandnbarai">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+ </a> 
+<a href="mailto:ab20892@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://twitter.com/anandnbarai">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/barai_anand">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/anandnbarai">
+  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
+</a>
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anandnbarai) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anandnbarai) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anandnbarai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barai_anand)
+
 
 <p> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
 <h3 align="left">Languages and Tools:</h3>
