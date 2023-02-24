@@ -46,8 +46,12 @@
 <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
 &nbsp
 
-
-
+<h2>:hammer_and_wrench: Tools I use</h2>
+<p>
+<img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
