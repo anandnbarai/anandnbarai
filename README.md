@@ -49,8 +49,11 @@
 <h2>:hammer_and_wrench: Tools I use</h2>
 <p>
 <img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+&nbsp;  
 <img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+&nbsp;
 <img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+&nbsp;
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
