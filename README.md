@@ -31,7 +31,7 @@
 </a>
 <br>
 
-## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
+<h2>:bulb: Languages & Frameworks</h2>
 <p>
 <img title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
 &nbsp
