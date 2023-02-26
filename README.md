@@ -55,8 +55,8 @@
 <img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 &nbsp;
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p> -->
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p>
