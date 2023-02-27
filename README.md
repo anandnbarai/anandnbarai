@@ -1,4 +1,4 @@
-<h3> I'm Anand Barai</h3>
+<h1 align="center"> I'm Anand Barai</h1>
 
 <h3 align="center">A passionate novice web developer from India.</h3>
 
