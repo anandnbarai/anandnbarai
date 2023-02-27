@@ -1,4 +1,4 @@
-<div class="container shadow mt-5 p-5 bg-dark" style="border: none; border-radius: 25px; object-fit: contain;">
+<div class="container align="center">
         <h1 class="text-center"> Hello, I am Anand Barai.</h1>
     </div>
 <h1 align="center">Hi, I'm Anand Barai</h1>
