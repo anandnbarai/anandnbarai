@@ -1,7 +1,6 @@
 
 <h1 align="center"> Hello, I am Anand Barai.</h1>
 
-
 <h3 align="center">A passionate novice web developer from India.</h3>
 
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
