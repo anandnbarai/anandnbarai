@@ -2,9 +2,10 @@
 <h3 align="center">A passionate novice web developer from India.</h3>
 
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
-<br>
+<br><br>
 <a href="https://twitter.com/anandnbarai" target="blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<br>
 <a href="https://www.github.com/anandnbarai" target="blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
