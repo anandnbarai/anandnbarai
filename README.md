@@ -1,6 +1,6 @@
-<div align="center">
+
         <h1 class="text-center"> Hello, I am Anand Barai.</h1>
-</div>
+
 
 <h3 align="center">A passionate novice web developer from India.</h3>
 
