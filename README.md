@@ -4,7 +4,12 @@
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 
 
-<p align="left"> <a href="https://twitter.com/anandnbarai" target="blank"><img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge" alt="anandnbarai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anandnbarai" target="blank"><img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge" alt="anandnbarai" /></a></p>
+
+<a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
 
 
