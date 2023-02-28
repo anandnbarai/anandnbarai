@@ -11,7 +11,9 @@
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
-<p align="center"> <img src="https://gpvc.arturio.dev/anandnbarai" alt="profile-views"> </p>
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://gpvc.arturio.dev/anandnbarai" /> </a>
+
 
 # **About me** :
 
