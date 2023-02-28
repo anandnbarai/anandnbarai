@@ -11,13 +11,10 @@
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://gpvc.arturio.dev/anandnbarai" /> </a>
-
 
 # **About me** :
 
-- 🌱 I’m currently learning **PHP & MySQL** <br>
+- 🌱 I’m currently learning **PHP, MySQL, HTML, CSS & JavaScript** <br>
 - 👨‍🏭 **Mechanical Graduate** <br>
 - 🤩 Always excited and ready to **learn new skills👨‍🎓**
 
