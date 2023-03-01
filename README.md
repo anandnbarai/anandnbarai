@@ -1,4 +1,4 @@
-/*
+
 <h1 align="center"> Hello, I am Anand Barai.</h1>
 
 <h3 align="center">A passionate novice web developer from India.</h3>
@@ -65,4 +65,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p>
-*/
