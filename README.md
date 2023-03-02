@@ -3,8 +3,6 @@
 
 <h3 align="center">A passionate novice web developer from India.</h3>
 
-<img align="right" alt="Coder" src="images/anand.png">
-<br>
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 <br>
 <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
