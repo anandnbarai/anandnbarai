@@ -22,7 +22,9 @@
 ## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/anandnbarai">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />          
+
+            <i class="devicon-linkedin-plain-wordmark colored"></i>
+                    
  </a> 
 <a href="https://twitter.com/anandnbarai">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
