@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
 
-# **About me** :
+## About me :
 
 - 🌱 I’m currently learning **PHP, MySQL, HTML, CSS & JavaScript** <br>
 - 👨‍🏭 **Mechanical Graduate** <br>
