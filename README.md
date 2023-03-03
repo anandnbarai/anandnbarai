@@ -21,13 +21,13 @@
 ## 🌐 Connect with Me 
 
 <a href="https://www.linkedin.com/in/anandnbarai">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>             
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Anand Barai" />             
 </a> 
 <a href="https://twitter.com/anandnbarai">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Anand Barai" />
 </a>
 <a href="https://www.instagram.com/barai_anand">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Anand Barai" />
 </a>
 <a href="https://www.facebook.com/anandnbarai">
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
