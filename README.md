@@ -16,6 +16,7 @@
 - 🌱 I’m currently learning **PHP, MySQL, HTML, CSS & JavaScript** <br>
 - 👨‍🏭 **Mechanical Graduate** <br>
 - 🤩 Always excited and ready to **learn new skills👨‍🎓**
+- 😍 Love Watching Movies 📽️, Photography📸, Reading 📖
 
 
 ## 🌐 Connect with Me 
