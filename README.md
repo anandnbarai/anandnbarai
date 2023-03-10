@@ -13,10 +13,10 @@
 
 ## 🙋 About me :
 
-- 🎯 I’m currently learning **PHP, MySQL, HTML, CSS & JavaScript** <br>
-- 👨‍🏭 **Mechanical Graduate** <br>
-- 🤩 Always excited and ready to **learn new skills👨‍🎓**
-- 😍 Love Watching Movies 📽️, Photography📸, Reading 📖
+🎯 I’m currently learning **PHP, MySQL, HTML, CSS & JavaScript** <br>
+👨‍🏭 **Mechanical Graduate** <br>
+🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
+😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
 📫 How to reach me: ab20892@gmail.com
 
 
