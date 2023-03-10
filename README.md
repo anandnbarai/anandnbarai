@@ -30,9 +30,6 @@
 <a href="https://www.instagram.com/barai_anand">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/anandnbarai">
-  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)" />
-</a>
 <br>
 
 <h2>:bulb: Languages & Frameworks</h2>
