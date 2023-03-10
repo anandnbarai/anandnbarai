@@ -17,7 +17,7 @@
 👨‍🏭 **Mechanical Graduate** <br>
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
-📫 How to reach me: ab20892@gmail.com
+📫 How to reach me : ab20892@gmail.com
 
 
 ## 🌐 Connect with Me 
