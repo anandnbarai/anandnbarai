@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Anand+Barai;A+passionate+novice+Web+Developer+from India!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 <h1 align="center"> Hello 👋 I am Anand Barai</h1>
 
 <h3 align="center">A passionate novice web developer from India.</h3>
