@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Anand+Barai;A+Passionate+novice+Web+Developer;from+India!&font=Fantasy&color=darkblack&duration=4000&pause=500">
-</p>
 
-<!-- <h1 align="center"> Hello 👋 I am Anand Barai</h1>
+<h1 align="center"> Hello 👋 I am Anand Barai</h1>
 
-<h3 align="center">A passionate novice web developer from India.</h3> -->
+<h3 align="center">A passionate novice web developer from India.</h3> 
 
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 <br>
