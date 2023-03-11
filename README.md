@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Anand+Barai;A+Passionate+novice+Web+Developer+from India!&font=Fira&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Anand+Barai;A+Passionate+novice+Web+Developer;from+India!&font=apple-systema&duration=4000&pause=1000">
 </p>
 <h1 align="center"> Hello 👋 I am Anand Barai</h1>
 
