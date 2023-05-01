@@ -1,11 +1,8 @@
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG"/></a>
 <div>
 <hr>
-<div align='center'>
- <h3>Connect with me here...⤵️</h3>
- </div>
-<div align="center">
+<h3>Connect with me here...⤵️</h3>
 <a href="https://www.linkedin.com/in/anandnbarai">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
 </a> 
@@ -15,12 +12,12 @@
 <a href="https://www.instagram.com/barai_anand">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-</div>
+
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 <br>
 <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
-
+ 
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
@@ -65,5 +62,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p>
-
-
