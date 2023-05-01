@@ -1,6 +1,6 @@
 <div align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG"/></a>
-<div>
+</div>
 <hr>
 <h3>Connect with me here...⤵️</h3>
 <a href="https://www.linkedin.com/in/anandnbarai">
@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
-</div>
 
 ## 🙋 About me :
 
