@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG"/></a>
-<hr style="color:black">
+<hr style="height:1px; border:none; color:#000; background-color:#000;">
 <div align="center">
 <h3>Connect with me here...⤵️</h3>
 <a href="https://www.linkedin.com/in/anandnbarai">
