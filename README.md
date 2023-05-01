@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India.)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand+Barai.;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG" /></a>
 <hr>
 <div align='center'>
