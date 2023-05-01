@@ -3,6 +3,9 @@
 
 <h3 align="center">A passionate novice web developer from India.</h3> 
 <div align="center">
+<div align='center'>
+ <h4>Connect with me here...⤵️</h4>
+ </div>
 <a href="https://www.linkedin.com/in/anandnbarai">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
 </a> 
@@ -29,12 +32,6 @@
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
 📫 How to reach me : ab20892@gmail.com
-
-
-## 🌐 Connect with Me 
-
-
-
 <br>
 
 <h2>:bulb: Languages & Frameworks</h2>
