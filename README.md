@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hello 👋 I am Anand Barai</h1>
-
 <h3 align="center">A passionate novice web developer from India.</h3> 
-<div align="center">
+<hr>
 <div align='center'>
- <h4>Connect with me here...⤵️</h4>
+ <h3>Connect with me here...⤵️</h3>
  </div>
+<div align="center">
 <a href="https://www.linkedin.com/in/anandnbarai">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />             
 </a> 
