@@ -41,8 +41,8 @@
 &nbsp
 <img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigth="50px">
 &nbsp
-<!--<img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
-&nbsp-->
+<img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
+&nbsp
 
 <h2>:hammer_and_wrench: Tools I use</h2>
 <p>
