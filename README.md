@@ -16,7 +16,7 @@
 </a>
 </div>
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
-<br>
+<br><br>
 <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
