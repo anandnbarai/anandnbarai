@@ -16,8 +16,6 @@
 👨‍🏭 **Mechanical Graduate** <br>
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
-<br>
-
 
 ## 👨‍💻Languages & Tools
 
