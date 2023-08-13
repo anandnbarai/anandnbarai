@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG">
 </a>
 </div>
-<hr>
 
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
 <br><br>
