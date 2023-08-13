@@ -3,8 +3,7 @@
 </a>
 </div>
 <img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
-<br><br>
-
+<br>
 
 ## 🙋 About me :
 
@@ -39,8 +38,12 @@
 &nbsp
 <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
 &nbsp -->
-
-<!--  -->
+<br>
+<a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
