@@ -17,7 +17,7 @@
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
 
-## 👨‍💻Languages & Tools
+## 👨‍💻 Languages & Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"  title="CSS"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" title="PHP"/>
