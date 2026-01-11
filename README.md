@@ -9,6 +9,7 @@
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 
+---
 
 ## 🙋 About me :
 
@@ -17,11 +18,21 @@
 🤩 Always excited and ready to **learn new skills👨‍🎓** <br>
 😍 Love Watching Movies 📽️, Photography📸, Reading 📖 <br>
 
+---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,html,javascript,jquery,mongodb,git,github,vscode,windows" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=anandnbarai&theme=tokyonight" />
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
