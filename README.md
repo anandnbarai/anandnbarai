@@ -36,6 +36,10 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=anandnbarai&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandnbarai&layout=compact&theme=tokyonight" />
+</p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
