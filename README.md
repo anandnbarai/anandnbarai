@@ -24,22 +24,8 @@
   <img src="https://skillicons.dev/icons?i=php,mysql,html,javascript,jquery,mongodb,git,github,vscode,windows" />
 </p>
 
-<!-- <p>
-<img title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
-&nbsp
-<img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px" height="40px">
-&nbsp
-<img title="Bootstrap" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px">
-&nbsp
-<img title="PHP" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40px" height="50px">
-&nbsp
-<img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" heigth="50px">
-&nbsp
-<img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigth="50px">
-&nbsp -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&locale=en" alt="anandnbarai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnbarai&" alt="anandnbarai" /></p> -->
