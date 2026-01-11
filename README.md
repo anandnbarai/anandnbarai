@@ -29,15 +29,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 🤝 Connect With Me  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anandnbarai&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=anandnbarai&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandnbarai&layout=compact&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/anandnbarai/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:ab20892@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
+  <a href="https://github.com/anandnbarai"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandnbarai&show_icons=true&locale=en&layout=compact" alt="anandnbarai" /></p>
