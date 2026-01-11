@@ -1,13 +1,13 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Apple+System&size=30&duration=2500&pause=500&color=000000&width=435&lines=Hello+%F0%9F%91%8B+I+am+Anand;A+Passionate+Novice;Web+Developer+from+India." alt="Typing SVG">
-</a>
-</div>
-<img align="right" alt="Coder" src="https://www.digitalsolutionservices.com/img/services/website1.gif">
+<h1 align="center"> Hello, I'm Anand Barai 👋 </h1>
 <br><br>
-<a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anandnbarai/"><img src="https://img.shields.io/badge/-Ravishankar-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:anandnbarai@gmail.com"><img src="https://img.shields.io/badge/Email-ravipandeydu%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+<!-- <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
 <a href="https://www.github.com/anandnbarai" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+<img src="https://img.shields.io/github/followers/anandnbarai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a> -->
 
 ---
 
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anandnbarai/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:ab20892@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
+  <a href="mailto:anandnbarai@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/></a>
   <a href="https://github.com/anandnbarai"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
 </p>
 
