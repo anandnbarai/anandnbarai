@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Anand Barai 👋 </h1>
-<br><br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anandnbarai/"><img src="https://img.shields.io/badge/-Ravishankar-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:anandnbarai@gmail.com"><img src="https://img.shields.io/badge/Email-ravipandeydu%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
