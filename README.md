@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anandnbarai/"><img src="https://img.shields.io/badge/-Anand-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:anandnbarai@gmail.com"><img src="https://img.shields.io/badge/Email-ravipandeydu%40gmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anandnbarai@gmail.com"><img src="https://img.shields.io/badge/Email-anandnbaraigmail.com-red?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 <!-- <a href="https://twitter.com/anandnbarai" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/twitter/follow/anandnbarai?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
